@@ -1,2 +1,2 @@
-# A3_4-Map-Project.github.io/index.html
-Loads website index.html
+# A3_4 Map Project
+Go to https://he25890161.github.io/A3_4-Map-Project/index.html to see the web page.
